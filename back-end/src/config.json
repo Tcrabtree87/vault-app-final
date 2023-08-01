@@ -1,0 +1,23 @@
+{
+  "powerUser": "tyler.crabtree@lacity.org",
+  "sftpUsername": "ext_practice_aligned",
+  "logFiles": "log-files",
+  "dataFiles": "data-files",
+  "sftpIP": "34.170.234.24",
+  "sharedDrive": "Google Apps eDiscovery",
+  "exportQueueLimit": "20",
+  "startCount": 1,
+  "severeFname": "-severe-error.csv",
+  "errorFname": "-query-error.csv",
+  "warningFname": "-query-warning.csv",
+  "apiFname": "-query-api.csv",
+  "countsFname": "-counts.csv",
+  "exportsFname": "-exports.csv",
+  "matterName": "testing",
+  "matterId": "39ecb8f2-885a-418a-8885-bf7ec899bfa1",
+  "corpus": "MAIL",
+  "dataScope": "ALL_DATA",
+  "searchMethod": "ALL_ACCOUNTS",
+  "timeZone": "America/Los_Angeles",
+  "sftpPassword": "ext_practice_aligned"
+}
